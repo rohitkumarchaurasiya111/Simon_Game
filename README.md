@@ -2,6 +2,9 @@
 
 This is a web-based Simon Game built using HTML, CSS, and JavaScript. The game challenges the player to remember and reproduce a sequence of colors, with each level adding a new color to the sequence. Try to beat your highest score!
 
+## Play Online
+**Live**: [Play Simon Game here!](https://simongame.noteslink.in/)
+
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
